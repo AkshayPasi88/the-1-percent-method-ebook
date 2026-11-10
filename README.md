@@ -27,10 +27,28 @@ compound growth). Produced by [the-1-percent-press](https://github.com/Padlock-G
 Twelve reels in ten distinct color themes, each with an emotional male
 voice-over (Fish Audio `s2.1-pro-free`, reference voice "Adrian"), word-synced
 karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
-**The background never sits still:** every reel rotates through multiple
-animated SVG motifs — one for the hook, one per body stretch, one for the CTA —
-crossfaded with a slow push-in (30s long-form reels switch roughly every 9s).
-**Reels 11–12 are 30-second long-form versions** (~2× length, mini monologues):
+
+**Dynamic Centre Visual Engine** (drives every reel):
+- **Centre stage never empty** — every narration beat gets contextual visuals:
+  real photos (auto-discovered via image search, watermark-scanned, cached,
+  attributed in `sources/CREDITS.md`), kinetic main text with word-by-word
+  reveal + expressive scale on key words, and animated stat counters (×37.78,
+  1%, 300 votes).
+- **Background morphs with the narration** — each scene carries a subject
+  palette (workout → crimson, reading → gold, math → lime…); tints crossfade
+  over 0.7 s with an ambient glow that follows the beat.
+- **Beat-synchronized effects** — audio onset detection + spoken-word starts
+  produce beat markers; image cards kick, text words pulse, glow breathes on
+  every hit.
+- **Motion-graphics grammar** (from `karanmrn/karanagentskills`,
+  `dxny-aep/remotion-skills`, `0xzgbot/hermes-media-skill-pack`
+  `motion_graphics_kinetic_type`, and the catalog at
+  `clonn/awesome-agent-video-skills`): Lissajous ambient drift (kills the
+  slideshow feel), parallax depth layers (bg 0.85 / content 1.14),
+  ScalePunch/BlurDissolve/TrackingReveal entrances, OUT_EXPO/CUBIC broadcast
+  easing, crossfaded scene switches (no empty frames at cuts).
+- **30s long-form reels (11–12)** rotate ~6 scenes each: photo card → giant
+  kinetic text → counter, roughly one visual change every 4–5 s.
 
 | # | Hook | Theme |
 | --- | --- | --- |
