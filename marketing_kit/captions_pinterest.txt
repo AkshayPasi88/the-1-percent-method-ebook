@@ -1,0 +1,47 @@
+# Pinterest copy — Batch 01 v2: The 1% Method
+# Video pins: hype_01..10.mp4 (9:16). Idea pins: slides/slide_01..06.png (4:5).
+# Post via Zernio automation or the dashboard. Titles < 100 chars.
+
+=== VIDEO PINS (reels double as Pinterest video pins) ===
+
+PIN — hype_01.mp4
+TITLE: 1% Better Every Day for a Year: The ×37.78 Math Nobody Believes
+DESCRIPTION: The compound-growth math behind tiny habits: 1% daily improvement equals ×37.78 in one year. This short explains why small beats big — and how to start with two minutes. Full free 18-page pocket guide at the link in our profile.
+TAGS: #tinyhabits #compoundgrowth #selfimprovement #1percentbetter
+
+PIN — hype_03.mp4
+TITLE: The 2-Minute Rule: How to Build a Habit That Actually Sticks
+DESCRIPTION: Shrink the habit until it's impossible to fail. The two-minute rule turns "someday" into today — one sentence written, one page read, one minute of focus. From The 1% Method, a free pocket guide (link in profile).
+TAGS: #twominuterule #habitbuilding #tinyhabits #selfimprovement
+
+PIN — hype_07.mp4
+TITLE: Don't Break the Chain: The Tracker Trick That Builds Streaks
+DESCRIPTION: Day one, day two, day three — never miss twice. Chain tracking is the oldest habit hack in the book, and it still works. Grab the free habit tracker + 30-day challenge inside The 1% Method (link in profile).
+TAGS: #habittracker #streaks #dontbreakthechain #dailyhabits
+
+PIN — hype_08.mp4
+TITLE: Tiny Gains Are Invisible in a Day, Undeniable in a Decade
+DESCRIPTION: Nobody claps for your 1% today. In ten years, nobody can ignore it. A short reminder that compounding is slow, then sudden. Free pocket guide at the link in profile.
+TAGS: #compoundgrowth #longtermthinking #personalgrowth #motivation
+
+=== IDEA PINS (single image slides) ===
+
+PIN — slide_03.png
+TITLE: 1% Better Every Day: The Compound Growth Math Poster
+DESCRIPTION: A printable-style reminder: 1% daily improvement compounds to ×37.78 in a year while 1% worse decays to ×0.03. Save this for the days motivation runs out. From The 1% Method — free 18-page guide, link in profile.
+TAGS: #compoundgrowth #motivationalquote #selfimprovement #habitbuilding
+
+PIN — slide_01.png
+TITLE: Discipline Is Choosing Between What You Want Now and What You Want Most
+DESCRIPTION: The daily choice, framed in one line. Pin it where you'll see it every morning. More frameworks like this in The 1% Method, our free pocket guide — link in profile.
+TAGS: #discipline #motivationalquote #selfimprovement #dailymotivation
+
+PIN — slide_06.png
+TITLE: Start Before You're Ready — Two Minutes Counts
+DESCRIPTION: Perfectionism is procrastination in a nicer outfit. Start with two minutes today; the momentum handles the rest. Free guide (with a 30-day challenge) at the link in profile.
+TAGS: #starttoday #motivation #tinyhabits #personalgrowth
+
+=== NOTES ===
+- Best pin times (IST): 20:00 daily slots; video pins perform best 20:00–22:00.
+- Board suggestions: Self-Improvement, Habit Building, Motivational Quotes.
+- All pins link to the ebook landing page (bio link).
