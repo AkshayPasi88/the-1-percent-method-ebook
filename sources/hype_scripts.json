@@ -150,6 +150,34 @@
       "hookLines": ["YOU DON'T NEED", "MORE MOTIVATION."],
       "voice": "[direct] You do not need more motivation. [punchy] You need one percent. [energetic] The method is free. Ebook. Link in bio.",
       "wordOverrides": {}
+    },
+    {
+      "id": "gold_plateau",
+      "file": "hype_11.mp4",
+      "audio": "audio/hype_11.mp3",
+      "name": "The Plateau Lie",
+      "theme": {
+        "bg": "#141009", "panel": "#1C1710", "accent": "#E8B84B",
+        "accentDeep": "#C9A227", "ink": "#F5EDD8", "inkSoft": "#A89468"
+      },
+      "svg": "bars",
+      "hookLines": ["DAY 20.", "STILL NOTHING."],
+      "voice": "[intense] Day twenty, and it still looks like nothing. [calm] This is where everybody quits. [punchy] The workout that changes nothing. The page nobody reads. The ten dollars that buys nothing. [firm] But one percent compounds quietly, and the results always lag the work. [intense] Then one Tuesday the curve bends, and everyone calls it luck. [firm] It was not luck. It was math. [energetic] The full method is free. Ebook. Link in bio.",
+      "wordOverrides": {}
+    },
+    {
+      "id": "ocean_identity",
+      "file": "hype_12.mp4",
+      "audio": "audio/hype_12.mp3",
+      "name": "You Become What You Repeat",
+      "theme": {
+        "bg": "#0A1626", "panel": "#102036", "accent": "#54C8FF",
+        "accentDeep": "#2E9BD6", "ink": "#EAF4FF", "inkSoft": "#7E97B5"
+      },
+      "svg": "waves",
+      "hookLines": ["YOU BECOME", "WHAT YOU REPEAT."],
+      "voice": "[calm] Here is what nobody tells you about change. [punchy] You do not rise to your goals. You fall to your systems, and you become what you repeat. [thoughtful] Read one page, you are a reader. Train once a week, you are training. Show up daily, you are reliable. [firm] Nobody feels the shift on day one. [intense] But three hundred votes later you are a different person, and it started with one tiny rep. [energetic] Cast the first vote today. Free ebook. Link in bio.",
+      "wordOverrides": {}
     }
   ]
 }

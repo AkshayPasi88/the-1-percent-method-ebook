@@ -10,11 +10,11 @@ compound growth). Produced by [the-1-percent-press](https://github.com/Padlock-G
 │   ├── The_1_Percent_Method_Ebook_4x5.pptx   ← editable master (18 pages, 8×10 in, 4:5)
 │   └── The_1_Percent_Method_Ebook.pdf        ← distribution copy
 ├── reels/                                    ← 9:16 · 1080×1920 · 30fps · H.264 + AAC
-│   ├── hype_01..10.mp4                       ← voiced reels (male TTS, karaoke captions)
+│   ├── hype_01..12.mp4                       ← voiced reels (male TTS, karaoke captions)
 │   └── classic/                              ← 3 silent text-design reels (batch v1)
 ├── slides/                                   ← 4:5 · 1080×1350 PNG quote cards (photo posts)
 ├── marketing_kit/
-│   ├── captions_instagram.txt                ← captions for all 10 reels + 6 slides
+│   ├── captions_instagram.txt                ← captions for all 12 reels + 6 slides
 │   ├── captions_pinterest.txt                ← video pin + idea pin copy
 │   ├── hashtags.txt                          ← tiered hashtag sets
 │   ├── README.md                             ← batch overview + posting schedule (IST)
@@ -26,7 +26,8 @@ compound growth). Produced by [the-1-percent-press](https://github.com/Padlock-G
 
 Ten distinct color themes + animated SVG elements, each with an emotional male
 voice-over (Fish Audio `s2.1-pro-free`, reference voice "Adrian"), word-synced
-karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end:
+karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
+**Reels 11–12 are 30-second long-form versions** (~2× length, mini monologues):
 
 | # | Hook | Theme |
 | --- | --- | --- |
@@ -40,6 +41,8 @@ karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end:
 | 08 | INVISIBLE TODAY. UNDENIABLE IN A DECADE. | coral · ticking clock |
 | 09 | STOP WAITING FOR MONDAY. | violet · pulse dot grid |
 | 10 | YOU DON'T NEED MORE MOTIVATION. | sunset · rising arc |
+| 11 | DAY 20. STILL NOTHING. | gold · rising bars · **30s long-form** |
+| 12 | YOU BECOME WHAT YOU REPEAT. | ocean · flowing waves · **30s long-form** |
 
 ## The slides
 
