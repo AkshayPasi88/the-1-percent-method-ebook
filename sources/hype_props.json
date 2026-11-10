@@ -217,6 +217,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "bars",
+        "streaks",
+        "arc"
       ]
     },
     {
@@ -358,6 +363,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "chain",
+        "checks",
+        "dots"
       ]
     },
     {
@@ -583,6 +593,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "streaks",
+        "bars",
+        "clock"
       ]
     },
     {
@@ -742,6 +757,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "bolt",
+        "rings",
+        "arc"
       ]
     },
     {
@@ -949,6 +969,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "waves",
+        "dots",
+        "chain"
       ]
     },
     {
@@ -1156,6 +1181,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "checks",
+        "clock",
+        "waves"
       ]
     },
     {
@@ -1333,6 +1363,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "rings",
+        "arc",
+        "streaks"
       ]
     },
     {
@@ -1516,6 +1551,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "clock",
+        "bars",
+        "dots"
       ]
     },
     {
@@ -1693,6 +1733,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "dots",
+        "waves",
+        "checks"
       ]
     },
     {
@@ -1864,6 +1909,11 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "arc",
+        "bolt",
+        "rings"
       ]
     },
     {
@@ -2431,6 +2481,13 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "bars",
+        "streaks",
+        "rings",
+        "clock",
+        "arc"
       ]
     },
     {
@@ -3076,6 +3133,13 @@
             }
           ]
         }
+      ],
+      "bgSeq": [
+        "waves",
+        "dots",
+        "chain",
+        "rings",
+        "arc"
       ]
     }
   ]

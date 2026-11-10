@@ -24,9 +24,12 @@ compound growth). Produced by [the-1-percent-press](https://github.com/Padlock-G
 
 ## The reels
 
-Ten distinct color themes + animated SVG elements, each with an emotional male
+Twelve reels in ten distinct color themes, each with an emotional male
 voice-over (Fish Audio `s2.1-pro-free`, reference voice "Adrian"), word-synced
 karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
+**The background never sits still:** every reel rotates through multiple
+animated SVG motifs — one for the hook, one per body stretch, one for the CTA —
+crossfaded with a slow push-in (30s long-form reels switch roughly every 9s).
 **Reels 11–12 are 30-second long-form versions** (~2× length, mini monologues):
 
 | # | Hook | Theme |
