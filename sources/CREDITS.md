@@ -70,3 +70,19 @@ illustrations (marked below) — watermark-free and license-clean.
 | sunset_onepct / sunrise | runner tying shoes starting a run at sunrise | Maximum Mileage Coaching | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d88b9c0429aa.jpg |
 | violet_monday / monday | wall calendar with a red circle around a date | VibeHaus | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5221d0512a1b.jpg |
 | violet_monday / stopwatch | stopwatch showing two minutes close up dramatic light | slate.com | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/932672a76321.jpeg |
+
+## Engine v4 — animated reels 13–14 (2026-11-12, no external images)
+
+Re-rendered with the code-drawn animation engine (press repo `engine/opuscar/`):
+every background is a procedural canvas animation drawn frame by frame — no
+stock photos, no AI video generation. The photo-table entries for
+`onyx_rescue` / `iron_pain` above are historical (used by the retired v3/v3.1
+photo versions); the published `reels/hype_13.mp4` / `hype_14.mp4` no longer
+contain any external imagery.
+
+| Component | Source | Licence / notes |
+|---|---|---|
+| Frame capture, mux, page contract | [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | MIT — core/render tools |
+| Voices (per-sentence emotion + speed) | Fish Audio s2.1 (`s2.1-pro-free`) | Adrian + Energetic Male reference voices |
+| Backgrounds, typography, SFX, music | procedural (seeded numpy/canvas code) | original to this project |
+| Fonts | Anton, Archivo Black, Source Sans 3 | SIL Open Font License (unchanged) |
