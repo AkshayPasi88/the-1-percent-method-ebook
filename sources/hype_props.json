@@ -3141,6 +3141,454 @@
         "rings",
         "arc"
       ]
+    },
+    {
+      "id": "ash_decay",
+      "file": "hype_13.mp4",
+      "audio": "audio/hype_13.mp3",
+      "name": "The 0.99 Trap",
+      "theme": {
+        "bg": "#141117",
+        "panel": "#1D1A22",
+        "accent": "#FF5A48",
+        "accentDeep": "#C94036",
+        "ink": "#F2EFE9",
+        "inkSoft": "#A09CA8"
+      },
+      "svg": "streaks",
+      "hookLines": [
+        "1% WORSE DAILY",
+        "= \u00d70.03"
+      ],
+      "voice": "[intense] One percent worse, every day, for one year. [punchy] Not one percent weaker. Ninety-seven percent gone. [energetic] Reverse the slide. Free ebook. Link in bio.",
+      "wordOverrides": {},
+      "bgSeq": [
+        "streaks",
+        "waves",
+        "clock"
+      ],
+      "hookEndSec": 3.4,
+      "ctaStartSec": 9.4,
+      "audioDurationSec": 12.042,
+      "speechEndSec": 11.92,
+      "captions": [
+        {
+          "start": 0,
+          "end": 1.84,
+          "words": [
+            {
+              "text": "One",
+              "start": 0,
+              "end": 0.32,
+              "display": "One"
+            },
+            {
+              "text": "percent",
+              "start": 0.32,
+              "end": 0.8,
+              "display": "percent"
+            },
+            {
+              "text": "worse",
+              "start": 0.8,
+              "end": 1.28,
+              "display": "worse"
+            },
+            {
+              "text": "every",
+              "start": 1.44,
+              "end": 1.84,
+              "display": "every"
+            }
+          ]
+        },
+        {
+          "start": 1.84,
+          "end": 3.44,
+          "words": [
+            {
+              "text": "day",
+              "start": 1.84,
+              "end": 2.24,
+              "display": "day"
+            },
+            {
+              "text": "for",
+              "start": 2.48,
+              "end": 2.64,
+              "display": "for"
+            },
+            {
+              "text": "one",
+              "start": 2.64,
+              "end": 2.96,
+              "display": "one"
+            },
+            {
+              "text": "year",
+              "start": 2.96,
+              "end": 3.44,
+              "display": "year"
+            }
+          ]
+        },
+        {
+          "start": 4,
+          "end": 5.68,
+          "words": [
+            {
+              "text": "Not",
+              "start": 4,
+              "end": 4.32,
+              "display": "Not"
+            },
+            {
+              "text": "one",
+              "start": 4.32,
+              "end": 4.72,
+              "display": "one"
+            },
+            {
+              "text": "percent",
+              "start": 4.72,
+              "end": 5.2,
+              "display": "percent"
+            },
+            {
+              "text": "weaker",
+              "start": 5.2,
+              "end": 5.68,
+              "display": "weaker"
+            }
+          ]
+        },
+        {
+          "start": 6.24,
+          "end": 7.92,
+          "words": [
+            {
+              "text": "Ninety",
+              "start": 6.24,
+              "end": 6.64,
+              "display": "Ninety"
+            },
+            {
+              "text": "seven",
+              "start": 6.64,
+              "end": 7.04,
+              "display": "seven"
+            },
+            {
+              "text": "percent",
+              "start": 7.04,
+              "end": 7.52,
+              "display": "percent"
+            },
+            {
+              "text": "gone",
+              "start": 7.52,
+              "end": 7.92,
+              "display": "gone"
+            }
+          ]
+        },
+        {
+          "start": 8.08,
+          "end": 9.12,
+          "words": [
+            {
+              "text": "Reverse",
+              "start": 8.08,
+              "end": 8.48,
+              "display": "Reverse"
+            },
+            {
+              "text": "the",
+              "start": 8.48,
+              "end": 8.64,
+              "display": "the"
+            },
+            {
+              "text": "slide",
+              "start": 8.64,
+              "end": 9.12,
+              "display": "slide"
+            }
+          ]
+        },
+        {
+          "start": 9.6,
+          "end": 10.56,
+          "words": [
+            {
+              "text": "Free",
+              "start": 9.6,
+              "end": 10.16,
+              "display": "Free"
+            },
+            {
+              "text": "ebook",
+              "start": 10.16,
+              "end": 10.56,
+              "display": "ebook"
+            }
+          ]
+        },
+        {
+          "start": 10.88,
+          "end": 11.92,
+          "words": [
+            {
+              "text": "Link",
+              "start": 10.88,
+              "end": 11.2,
+              "display": "Link"
+            },
+            {
+              "text": "in",
+              "start": 11.2,
+              "end": 11.36,
+              "display": "in"
+            },
+            {
+              "text": "bio",
+              "start": 11.36,
+              "end": 11.92,
+              "display": "bio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teal_stack",
+      "file": "hype_14.mp4",
+      "audio": "audio/hype_14.mp3",
+      "name": "Habit Stacking",
+      "theme": {
+        "bg": "#07161A",
+        "panel": "#0D2228",
+        "accent": "#2DD4BF",
+        "accentDeep": "#14A08E",
+        "ink": "#EAF7F4",
+        "inkSoft": "#8FB8B0"
+      },
+      "svg": "bars",
+      "hookLines": [
+        "AFTER COFFEE,",
+        "READ 1 PAGE."
+      ],
+      "voice": "[calm] After I pour my morning coffee, I read one page. [punchy] Old habit. New habit. One stack. [energetic] Build your stack. Free ebook. Link in bio.",
+      "wordOverrides": {},
+      "bgSeq": [
+        "bars",
+        "checks",
+        "arc"
+      ],
+      "hookEndSec": 2.2,
+      "ctaStartSec": 9.64,
+      "audioDurationSec": 12.46,
+      "speechEndSec": 12.32,
+      "captions": [
+        {
+          "start": 0,
+          "end": 0.88,
+          "words": [
+            {
+              "text": "After",
+              "start": 0,
+              "end": 0.32,
+              "display": "After"
+            },
+            {
+              "text": "I",
+              "start": 0.32,
+              "end": 0.48,
+              "display": "I"
+            },
+            {
+              "text": "pour",
+              "start": 0.48,
+              "end": 0.72,
+              "display": "pour"
+            },
+            {
+              "text": "my",
+              "start": 0.72,
+              "end": 0.88,
+              "display": "my"
+            }
+          ]
+        },
+        {
+          "start": 0.88,
+          "end": 1.76,
+          "words": [
+            {
+              "text": "morning",
+              "start": 0.88,
+              "end": 1.28,
+              "display": "morning"
+            },
+            {
+              "text": "coffee",
+              "start": 1.28,
+              "end": 1.76,
+              "display": "coffee"
+            }
+          ]
+        },
+        {
+          "start": 2.48,
+          "end": 3.68,
+          "words": [
+            {
+              "text": "I",
+              "start": 2.48,
+              "end": 2.64,
+              "display": "I"
+            },
+            {
+              "text": "read",
+              "start": 2.64,
+              "end": 2.88,
+              "display": "read"
+            },
+            {
+              "text": "one",
+              "start": 2.88,
+              "end": 3.2,
+              "display": "one"
+            },
+            {
+              "text": "page",
+              "start": 3.2,
+              "end": 3.68,
+              "display": "page"
+            }
+          ]
+        },
+        {
+          "start": 4.4,
+          "end": 5.12,
+          "words": [
+            {
+              "text": "Old",
+              "start": 4.4,
+              "end": 4.64,
+              "display": "Old"
+            },
+            {
+              "text": "habit",
+              "start": 4.64,
+              "end": 5.12,
+              "display": "habit"
+            }
+          ]
+        },
+        {
+          "start": 5.84,
+          "end": 6.48,
+          "words": [
+            {
+              "text": "New",
+              "start": 5.84,
+              "end": 6.08,
+              "display": "New"
+            },
+            {
+              "text": "habit",
+              "start": 6.08,
+              "end": 6.48,
+              "display": "habit"
+            }
+          ]
+        },
+        {
+          "start": 7.04,
+          "end": 7.92,
+          "words": [
+            {
+              "text": "One",
+              "start": 7.04,
+              "end": 7.36,
+              "display": "One"
+            },
+            {
+              "text": "stack",
+              "start": 7.36,
+              "end": 7.92,
+              "display": "stack"
+            }
+          ]
+        },
+        {
+          "start": 8.48,
+          "end": 9.44,
+          "words": [
+            {
+              "text": "Build",
+              "start": 8.48,
+              "end": 8.72,
+              "display": "Build"
+            },
+            {
+              "text": "your",
+              "start": 8.72,
+              "end": 8.88,
+              "display": "your"
+            },
+            {
+              "text": "stack",
+              "start": 8.88,
+              "end": 9.44,
+              "display": "stack"
+            }
+          ]
+        },
+        {
+          "start": 9.84,
+          "end": 10.8,
+          "words": [
+            {
+              "text": "Free",
+              "start": 9.84,
+              "end": 10.24,
+              "display": "Free"
+            },
+            {
+              "text": "ebook",
+              "start": 10.24,
+              "end": 10.8,
+              "display": "ebook"
+            }
+          ]
+        },
+        {
+          "start": 11.36,
+          "end": 12.32,
+          "words": [
+            {
+              "text": "Link",
+              "start": 11.36,
+              "end": 11.6,
+              "display": "Link"
+            },
+            {
+              "text": "in",
+              "start": 11.6,
+              "end": 11.76,
+              "display": "in"
+            },
+            {
+              "text": "bio",
+              "start": 11.76,
+              "end": 12.32,
+              "display": "bio"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

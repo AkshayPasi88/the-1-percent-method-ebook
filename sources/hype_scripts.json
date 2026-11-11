@@ -8,7 +8,7 @@
     "handle": "@self_efficient_daily",
     "ebookTitle": "THE 1% METHOD",
     "ebookSub": "The 18-page pocket guide to compound growth",
-    "cta": "FREE EBOOK \u00b7 LINK IN BIO"
+    "cta": "FREE EBOOK · LINK IN BIO"
   },
   "reels": [
     {
@@ -27,7 +27,7 @@
       "svg": "bars",
       "hookLines": [
         "1% EVERY DAY",
-        "= \u00d737.78"
+        "= ×37.78"
       ],
       "voice": "[intense] One percent better, every day, for one year. [punchy] Not one percent total. Thirty-seven times better. [energetic] The method is free. Ebook. Link in bio.",
       "wordOverrides": {},
@@ -324,6 +324,58 @@
         "dots",
         "chain",
         "rings",
+        "arc"
+      ]
+    },
+    {
+      "id": "ash_decay",
+      "file": "hype_13.mp4",
+      "audio": "audio/hype_13.mp3",
+      "name": "The 0.99 Trap",
+      "theme": {
+        "bg": "#141117",
+        "panel": "#1D1A22",
+        "accent": "#FF5A48",
+        "accentDeep": "#C94036",
+        "ink": "#F2EFE9",
+        "inkSoft": "#A09CA8"
+      },
+      "svg": "streaks",
+      "hookLines": [
+        "1% WORSE DAILY",
+        "= ×0.03"
+      ],
+      "voice": "[intense] One percent worse, every day, for one year. [punchy] Not one percent weaker. Ninety-seven percent gone. [energetic] Reverse the slide. Free ebook. Link in bio.",
+      "wordOverrides": {},
+      "bgSeq": [
+        "streaks",
+        "waves",
+        "clock"
+      ]
+    },
+    {
+      "id": "teal_stack",
+      "file": "hype_14.mp4",
+      "audio": "audio/hype_14.mp3",
+      "name": "Habit Stacking",
+      "theme": {
+        "bg": "#07161A",
+        "panel": "#0D2228",
+        "accent": "#2DD4BF",
+        "accentDeep": "#14A08E",
+        "ink": "#EAF7F4",
+        "inkSoft": "#8FB8B0"
+      },
+      "svg": "bars",
+      "hookLines": [
+        "AFTER COFFEE,",
+        "READ 1 PAGE."
+      ],
+      "voice": "[calm] After I pour my morning coffee, I read one page. [punchy] Old habit. New habit. One stack. [energetic] Build your stack. Free ebook. Link in bio.",
+      "wordOverrides": {},
+      "bgSeq": [
+        "bars",
+        "checks",
         "arc"
       ]
     }

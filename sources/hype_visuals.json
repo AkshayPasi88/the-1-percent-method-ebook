@@ -1746,5 +1746,292 @@
       13.96,
       14.96
     ]
+  },
+  "ash_decay": {
+    "scenes": [
+      {
+        "start": 3.45,
+        "end": 6.07,
+        "text": "NOT 1% WEAKER.",
+        "words": [
+          {
+            "text": "Not",
+            "start": 4,
+            "end": 4.32
+          },
+          {
+            "text": "one",
+            "start": 4.32,
+            "end": 4.72
+          },
+          {
+            "text": "percent",
+            "start": 4.72,
+            "end": 5.2
+          },
+          {
+            "text": "weaker",
+            "start": 5.2,
+            "end": 5.68
+          }
+        ],
+        "palette": {
+          "bg": "#161017",
+          "glow": "#FF5A48"
+        },
+        "image": "img/ash_decay/erosion.jpg",
+        "credit": {
+          "query": "cracked dry barren earth desert ground texture close up",
+          "source": "Unsplash",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d8d6d20edab.jpg"
+        }
+      },
+      {
+        "start": 6.09,
+        "end": 7.91,
+        "words": [
+          {
+            "text": "Ninety",
+            "start": 6.24,
+            "end": 6.64
+          },
+          {
+            "text": "seven",
+            "start": 6.64,
+            "end": 7.04
+          },
+          {
+            "text": "percent",
+            "start": 7.04,
+            "end": 7.52
+          },
+          {
+            "text": "gone",
+            "start": 7.52,
+            "end": 7.92
+          }
+        ],
+        "palette": {
+          "bg": "#161017",
+          "glow": "#FF5A48"
+        },
+        "stat": {
+          "prefix": "\u00d7",
+          "to": 0.03,
+          "decimals": 2,
+          "label": "OF YOU LEFT"
+        },
+        "image": "img/ash_decay/decline.jpg",
+        "credit": {
+          "query": "falling red stock market chart line on a dark trading screen",
+          "source": "Pexels",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/030132874fb8.jpeg"
+        }
+      },
+      {
+        "start": 7.93,
+        "end": 9.15,
+        "text": "REVERSE THE SLIDE.",
+        "words": [
+          {
+            "text": "Reverse",
+            "start": 8.08,
+            "end": 8.48
+          },
+          {
+            "text": "the",
+            "start": 8.48,
+            "end": 8.64
+          },
+          {
+            "text": "slide",
+            "start": 8.64,
+            "end": 9.12
+          }
+        ],
+        "palette": {
+          "bg": "#1C1108",
+          "glow": "#FF9E45"
+        },
+        "image": "img/ash_decay/turnaround.jpg",
+        "credit": {
+          "query": "blue u turn arrow road sign against the sky",
+          "source": "Reddit",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9e8a02e5484f.png"
+        }
+      }
+    ],
+    "beats": [
+      4.12,
+      4.56,
+      5.08,
+      5.56,
+      6.32,
+      6.84,
+      7.34,
+      8.18,
+      8.62
+    ]
+  },
+  "teal_stack": {
+    "scenes": [
+      {
+        "start": 2.25,
+        "end": 4.23,
+        "text": "AFTER COFFEE, ONE PAGE.",
+        "words": [
+          {
+            "text": "After",
+            "start": 0,
+            "end": 0.32
+          },
+          {
+            "text": "I",
+            "start": 0.32,
+            "end": 0.48
+          },
+          {
+            "text": "pour",
+            "start": 0.48,
+            "end": 0.72
+          },
+          {
+            "text": "my",
+            "start": 0.72,
+            "end": 0.88
+          },
+          {
+            "text": "morning",
+            "start": 0.88,
+            "end": 1.28
+          },
+          {
+            "text": "coffee",
+            "start": 1.28,
+            "end": 1.76
+          },
+          {
+            "text": "I",
+            "start": 2.48,
+            "end": 2.64
+          },
+          {
+            "text": "read",
+            "start": 2.64,
+            "end": 2.88
+          },
+          {
+            "text": "one",
+            "start": 2.88,
+            "end": 3.2
+          },
+          {
+            "text": "page",
+            "start": 3.2,
+            "end": 3.68
+          }
+        ],
+        "palette": {
+          "bg": "#06181C",
+          "glow": "#2DD4BF"
+        },
+        "image": "img/teal_stack/coffee.jpg",
+        "credit": {
+          "query": "cup of coffee beside an open book on a wooden table",
+          "source": "Unsplash",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02202a669347.jpg"
+        }
+      },
+      {
+        "start": 4.25,
+        "end": 8.31,
+        "text": "OLD HABIT + NEW HABIT.",
+        "words": [
+          {
+            "text": "Old",
+            "start": 4.4,
+            "end": 4.64
+          },
+          {
+            "text": "habit",
+            "start": 4.64,
+            "end": 5.12
+          },
+          {
+            "text": "New",
+            "start": 5.84,
+            "end": 6.08
+          },
+          {
+            "text": "habit",
+            "start": 6.08,
+            "end": 6.48
+          },
+          {
+            "text": "One",
+            "start": 7.04,
+            "end": 7.36
+          },
+          {
+            "text": "stack",
+            "start": 7.36,
+            "end": 7.92
+          }
+        ],
+        "palette": {
+          "bg": "#06181C",
+          "glow": "#2DD4BF"
+        },
+        "image": "img/teal_stack/blocks.jpg",
+        "credit": {
+          "query": "wooden building blocks stacked into a tall tower",
+          "source": "Amazon.in",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e84177259f8e.jpg"
+        }
+      },
+      {
+        "start": 8.33,
+        "end": 9.39,
+        "text": "BUILD YOUR STACK.",
+        "words": [
+          {
+            "text": "Build",
+            "start": 8.48,
+            "end": 8.72
+          },
+          {
+            "text": "your",
+            "start": 8.72,
+            "end": 8.88
+          },
+          {
+            "text": "stack",
+            "start": 8.88,
+            "end": 9.44
+          }
+        ],
+        "palette": {
+          "bg": "#1C1108",
+          "glow": "#FF9E45"
+        },
+        "image": "img/teal_stack/dominoes.jpg",
+        "credit": {
+          "query": "domino tiles lined up in a row falling close up on table",
+          "source": "Unsplash",
+          "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b87153c9a1a.jpg"
+        }
+      }
+    ],
+    "beats": [
+      2.62,
+      3.1,
+      4.48,
+      4.9,
+      5.96,
+      7.16,
+      7.58,
+      8.58,
+      9.1
+    ]
   }
 }

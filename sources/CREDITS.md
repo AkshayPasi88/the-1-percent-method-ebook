@@ -8,6 +8,9 @@ illustrations (marked below) — watermark-free and license-clean.
 
 | Asset | Search query | Source | Original URL |
 |---|---|---|---|
+| ash_decay / decline | falling red stock market chart line on a dark trading screen | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/030132874fb8.jpeg |
+| ash_decay / erosion | cracked dry barren earth desert ground texture close up | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d8d6d20edab.jpg |
+| ash_decay / turnaround | blue u turn arrow road sign against the sky | Reddit | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9e8a02e5484f.png |
 | coral_decade / oak | majestic giant oak tree standing alone in a field | Pinterest | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b0caabc8a5f.jpg |
 | coral_decade / seedling | tiny green seedling sprouting from soil macro shot | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1f325f343925.jpeg |
 | crimson_twice / calendar | desk calendar page with a red circle around a missed day | gdoc.io | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a66f6095e054.jpg |
@@ -39,5 +42,8 @@ illustrations (marked below) — watermark-free and license-clean.
 | steel_env / interior | minimalist living room interior with clean furniture design | Architectural Digest | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d732ce95c01.jpg |
 | sunset_onepct / couch | young man bored lying on a sofa at home | Ideal Home | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9af253493105.jpg |
 | sunset_onepct / sunrise | runner tying shoes starting a run at sunrise | Maximum Mileage Coaching | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d88b9c0429aa.jpg |
+| teal_stack / blocks | wooden building blocks stacked into a tall tower | Amazon.in | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e84177259f8e.jpg |
+| teal_stack / coffee | cup of coffee beside an open book on a wooden table | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02202a669347.jpg |
+| teal_stack / dominoes | domino tiles lined up in a row falling close up on table | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b87153c9a1a.jpg |
 | violet_monday / monday | wall calendar with a red circle around a date | VibeHaus | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5221d0512a1b.jpg |
 | violet_monday / stopwatch | stopwatch showing two minutes close up dramatic light | slate.com | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/932672a76321.jpeg |

@@ -262,5 +262,53 @@
     "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ca6fd5e49001.jpg",
     "width": 736,
     "height": 1308
+  },
+  "ash_decay/erosion": {
+    "file": "img/ash_decay/erosion.jpg",
+    "query": "cracked dry barren earth desert ground texture close up",
+    "source": "Unsplash",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d8d6d20edab.jpg",
+    "width": 1400,
+    "height": 933
+  },
+  "ash_decay/decline": {
+    "file": "img/ash_decay/decline.jpg",
+    "query": "falling red stock market chart line on a dark trading screen",
+    "source": "Pexels",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/030132874fb8.jpeg",
+    "width": 1260,
+    "height": 709
+  },
+  "ash_decay/turnaround": {
+    "file": "img/ash_decay/turnaround.jpg",
+    "query": "blue u turn arrow road sign against the sky",
+    "source": "Reddit",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9e8a02e5484f.png",
+    "width": 630,
+    "height": 1400
+  },
+  "teal_stack/coffee": {
+    "file": "img/teal_stack/coffee.jpg",
+    "query": "cup of coffee beside an open book on a wooden table",
+    "source": "Unsplash",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02202a669347.jpg",
+    "width": 1400,
+    "height": 931
+  },
+  "teal_stack/blocks": {
+    "file": "img/teal_stack/blocks.jpg",
+    "query": "wooden building blocks stacked into a tall tower",
+    "source": "Amazon.in",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e84177259f8e.jpg",
+    "width": 1000,
+    "height": 1000
+  },
+  "teal_stack/dominoes": {
+    "file": "img/teal_stack/dominoes.jpg",
+    "query": "domino tiles lined up in a row falling close up on table",
+    "source": "Unsplash",
+    "url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b87153c9a1a.jpg",
+    "width": 1400,
+    "height": 935
   }
 }
