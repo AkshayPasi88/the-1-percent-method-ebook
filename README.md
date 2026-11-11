@@ -49,10 +49,16 @@ karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
   easing, crossfaded scene switches (no empty frames at cuts).
 - **30s long-form reels (11–12)** rotate ~6 scenes each: photo card → giant
   kinetic text → counter, roughly one visual change every 4–5 s.
-- **Cinematic reels (13–14)** run the 30-second script format — timed sections
-  (hook → body → powerful ending) on full-bleed photographic footage with
-  ken-burns + crossfades, one giant Anton headline per section, and an ending
-  that points at the ebook (card + tapping arrow + LINK IN BIO).
+- **Viral cinematic reels (13–14)** — the full short-form engine: word-SLAM
+  hooks over rapid hard-cut footage, one 1–3 s scene per narration sentence
+  (energy-driven cuts: shout/angry = hard cut + punch zoom, calm/sad = slow
+  push + crossfade), EMOTIONAL voice performance (per-sentence TTS with
+  real atempo speed + loudness + pause variation — shout/fast/angry/sad/
+  whisper/dramatic), synthesized sound design (sub-bass impacts, whooshes on
+  every scene switch, riser into the CTA, ducked heartbeat music bed), word-
+  level kinetic captions with keyword accents, beat-synced punch-zooms, and
+  an ending that points at the ebook (card + tapping arrow + LINK IN BIO).
+  QC: automated black-frame/silence scans + vision QA on every render.
 
 | # | Hook | Theme |
 | --- | --- | --- |
