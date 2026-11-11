@@ -71,7 +71,7 @@ illustrations (marked below) — watermark-free and license-clean.
 | violet_monday / monday | wall calendar with a red circle around a date | VibeHaus | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5221d0512a1b.jpg |
 | violet_monday / stopwatch | stopwatch showing two minutes close up dramatic light | slate.com | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/932672a76321.jpeg |
 
-## Engine v4 — animated reels 13–14 (2026-11-12, no external images)
+## Engine v5 — animated reels 13–14 (2026-11-12, no external images)
 
 Re-rendered with the code-drawn animation engine (press repo `engine/opuscar/`):
 every background is a procedural canvas animation drawn frame by frame — no
