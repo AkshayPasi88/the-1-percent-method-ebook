@@ -49,6 +49,10 @@ karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
   easing, crossfaded scene switches (no empty frames at cuts).
 - **30s long-form reels (11–12)** rotate ~6 scenes each: photo card → giant
   kinetic text → counter, roughly one visual change every 4–5 s.
+- **Cinematic reels (13–14)** run the 30-second script format — timed sections
+  (hook → body → powerful ending) on full-bleed photographic footage with
+  ken-burns + crossfades, one giant Anton headline per section, and an ending
+  that points at the ebook (card + tapping arrow + LINK IN BIO).
 
 | # | Hook | Theme |
 | --- | --- | --- |
@@ -64,8 +68,8 @@ karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
 | 10 | YOU DON'T NEED MORE MOTIVATION. | sunset · rising arc |
 | 11 | DAY 20. STILL NOTHING. | gold · rising bars · **30s long-form** |
 | 12 | YOU BECOME WHAT YOU REPEAT. | ocean · flowing waves · **30s long-form** |
-| 13 | 1% WORSE DAILY = ×0.03 | ash · falling streaks |
-| 14 | AFTER COFFEE, READ 1 PAGE. | teal · stacked bars |
+| 13 | NOBODY IS COMING TO SAVE YOU. | onyx cinematic · full-bleed footage |
+| 14 | PAIN OF DISCIPLINE, OR PAIN OF REGRET. | iron cinematic · full-bleed footage |
 
 ## The slides
 

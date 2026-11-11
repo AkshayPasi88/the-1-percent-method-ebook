@@ -8,9 +8,6 @@ illustrations (marked below) — watermark-free and license-clean.
 
 | Asset | Search query | Source | Original URL |
 |---|---|---|---|
-| ash_decay / decline | falling red stock market chart line on a dark trading screen | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/030132874fb8.jpeg |
-| ash_decay / erosion | cracked dry barren earth desert ground texture close up | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d8d6d20edab.jpg |
-| ash_decay / turnaround | blue u turn arrow road sign against the sky | Reddit | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9e8a02e5484f.png |
 | coral_decade / oak | majestic giant oak tree standing alone in a field | Pinterest | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b0caabc8a5f.jpg |
 | coral_decade / seedling | tiny green seedling sprouting from soil macro shot | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1f325f343925.jpeg |
 | crimson_twice / calendar | desk calendar page with a red circle around a missed day | gdoc.io | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a66f6095e054.jpg |
@@ -25,6 +22,13 @@ illustrations (marked below) — watermark-free and license-clean.
 | gold_plateau / iceberg | iceberg above and below the water surface | Reddit | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1740c2e415bf.jpg |
 | gold_plateau / money | US hundred dollar bills close up macro photography | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bbdbde3707a9.jpg |
 | gold_plateau / road | empty desert highway road stretching to the horizon | TheTravel | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1978edda6a14.jpg |
+| iron_pain / alarm | alarm clock in a dark bedroom early morning | Mashable | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d5ee5a446f5.jpg |
+| iron_pain / bag | boxer hitting a punching bag with sweat in dark gym | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6e4f41adc38b.jpeg |
+| iron_pain / finish | runner crossing finish line with arms raised at sunrise | Desiring God | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e2fb55f1dc27.jpg |
+| iron_pain / gloves | boxing gloves close up hanging in dark gym | Legends Boxing | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bfdd4a41c859.png |
+| iron_pain / litwin | one lit window in a dark building at night | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aaf3e1e19913.jpeg |
+| iron_pain / plates | barbell with weight plates close up in gym | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8295128f3e40.jpeg |
+| iron_pain / wraps | boxer wrapping his hands in a dark gym dramatic light | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a04e4b824ec.jpeg |
 | lime_2min / ballot | hand putting a vote into a ballot box close up | KQED | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0330c2ef0586.jpg |
 | lime_2min / timer | egg timer counting down on kitchen counter | YouTube | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f736bb85618a.jpg |
 | mono_weather / calm | calm mountain lake at dawn with serene horizon | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bdf77e4ececc.jpeg |
@@ -37,13 +41,17 @@ illustrations (marked below) — watermark-free and license-clean.
 | ocean_identity / stairs | person climbing stairs upward into dramatic light | TheCoolist | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67075f205921.png |
 | ocean_votes / ballotbox | voting ballot box with a slot close up | Walmart | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/63c923e50677.jpeg |
 | ocean_votes / steps | person walking up a long staircase seen from below | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fd4c7c0740bb.jpg |
+| onyx_rescue / barbell | athlete lifting heavy barbell in dark gym dramatic lighting | SplitShire | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/97c24e66490e.png |
+| onyx_rescue / dawnrun | runner running alone on empty city street before sunrise | Medium | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9fe84dcc8386.jpg |
+| onyx_rescue / road | man walking alone on empty road at night in fog | SplitShire | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/39ad6ce394d2.png |
+| onyx_rescue / rooftop | lone man silhouette standing on rooftop overlooking city at night | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4bf565a5e0b4.jpg |
+| onyx_rescue / summit | silhouette of person standing on mountain summit at sunrise | PresentationGO | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/35d9709aeb0c.jpg |
+| onyx_rescue / walker | determined man walking forward portrait dark moody lighting | Pexels | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3053f89cd09.jpeg |
+| onyx_rescue / window | single lit window in dark apartment building at night | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/78d1fcf02721.jpg |
 | steel_env / blueprint | house plan blueprint drawings with white pencil on blue paper | SplitShire | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e64f93be673c.png |
 | steel_env / fruit | bowl of fresh fruit on a bright kitchen counter | CedarAndTin Co. | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/16994a95429e.png |
 | steel_env / interior | minimalist living room interior with clean furniture design | Architectural Digest | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d732ce95c01.jpg |
 | sunset_onepct / couch | young man bored lying on a sofa at home | Ideal Home | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9af253493105.jpg |
 | sunset_onepct / sunrise | runner tying shoes starting a run at sunrise | Maximum Mileage Coaching | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d88b9c0429aa.jpg |
-| teal_stack / blocks | wooden building blocks stacked into a tall tower | Amazon.in | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e84177259f8e.jpg |
-| teal_stack / coffee | cup of coffee beside an open book on a wooden table | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02202a669347.jpg |
-| teal_stack / dominoes | domino tiles lined up in a row falling close up on table | Unsplash | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b87153c9a1a.jpg |
 | violet_monday / monday | wall calendar with a red circle around a date | VibeHaus | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5221d0512a1b.jpg |
 | violet_monday / stopwatch | stopwatch showing two minutes close up dramatic light | slate.com | https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/932672a76321.jpeg |
