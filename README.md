@@ -49,17 +49,10 @@ karaoke captions, a scroll-stopping hook, and an ebook CTA card at the end.
   easing, crossfaded scene switches (no empty frames at cuts).
 - **30s long-form reels (11–12)** rotate ~6 scenes each: photo card → giant
   kinetic text → counter, roughly one visual change every 4–5 s.
-- **Animated reels (13–14, engine v5 "opuscar")** — films drawn entirely in
-  code, frame by frame (no stock footage, no AI video): giant word-SLAM hooks
-  with a background flip per word, 12 procedural animated backgrounds
-  (flow-field particles, tunnel grids, orbit rings, mosaic waves, glyph rain,
-  glitch slices…) cut every 1–3 s on the music beat grid, word-level kinetic
-  captions synced to TTS timestamps with keyword accents, per-sentence
-  EMOTIONAL Fish voices (shouting / whispering / dead serious / excited +
-  prosody speed), synthesized sound design (impacts, whooshes, ticks, riser)
-  over a ducked dark-trap loop, camera moves per scene, and an ebook CTA card
-  with a bouncing chevron + LINK IN BIO. Automated QC rejects static frames,
-  blanks and silent audio; every render gets a vision review.
+- **Cinematic reels (13–14)** run the 30-second script format — timed sections
+  (hook → body → powerful ending) on full-bleed photographic footage with
+  ken-burns + crossfades, one giant Anton headline per section, and an ending
+  that points at the ebook (card + tapping arrow + LINK IN BIO).
 
 | # | Hook | Theme |
 | --- | --- | --- |
